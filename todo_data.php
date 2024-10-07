@@ -1,5 +1,4 @@
 <?php
-
 // Load existing todos from a file
 function load_todos() {
     $file = 'todos.json';
